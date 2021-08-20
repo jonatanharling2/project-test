@@ -1,0 +1,2 @@
+.. automodule:: modules.functions
+  :members:
